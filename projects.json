@@ -1,6 +1,8 @@
 [
     {
         "name":"adminVp",
+        "displayName":" Product Control System VP (Fintech)",
+        "tech":"PHP, Laravel, MYSQL, Vue.js, FireBase, AWS,GIT,Redis, Bootstrap 4, CSS3, and SASS.",
         "total":18,
         "format":"JPG",
         "baseUrl":"https://raw.githubusercontent.com/MSaddamKamal/wireMedia/main/"
@@ -8,6 +10,8 @@
     },
     {
         "name":"appVp",
+        "displayName":"User App VP",
+        "tech":"PHP, Laravel, MYSQL, Vue.js, FireBase, AWS,GIT,Redis, Bootstrap 4, CSS3, and SASS.",
         "total":21,
         "format":"JPG",
         "baseUrl":"https://raw.githubusercontent.com/MSaddamKamal/wireMedia/main/"
@@ -15,6 +19,8 @@
     },
     {
         "name":"burrency",
+        "displayName":"Burrency Exchange",
+        "tech":" React.js,Node.js,Express.js,Kafka,Redux,MongoDB (Mongoose),Javascript,Typescript,AWS.",
         "total":13,
         "format":"JPG",
         "baseUrl":"https://raw.githubusercontent.com/MSaddamKamal/wireMedia/main/"
@@ -22,6 +28,8 @@
     },
     {
         "name":"idev",
+        "displayName":"IDev Affiliate Marketing",
+        "tech":"PHP, Laravel, MYSQL, AJAX, Jquery, Payment Gateways (Paypal,Stripe), AWS,GIT, Bootstrap 4, CSS3, and SASS.",
         "total":19,
         "format":"JPG",
         "baseUrl":"https://raw.githubusercontent.com/MSaddamKamal/wireMedia/main/"
@@ -29,6 +37,8 @@
     },
     {
         "name":"merchantVp",
+        "displayName":"Merchant VP Dashboard",
+        "tech":"PHP, Laravel, MYSQL, Vue.js, FireBase, AWS,GIT,Redis, Bootstrap 4, CSS3, and SASS.",
         "total":20,
         "format":"JPG",
         "baseUrl":"https://raw.githubusercontent.com/MSaddamKamal/wireMedia/main/"
@@ -36,6 +46,8 @@
     },
     {
         "name":"paymentSdk",
+        "displayName":"Payment SDK",
+        "tech":"PHP, Laravel, MYSQL, Vue.js, FireBase,GIT,Redis, Bootstrap 4, CSS3, and SASS. ",
         "total":7,
         "format":"JPG",
         "baseUrl":"https://raw.githubusercontent.com/MSaddamKamal/wireMedia/main/"
@@ -43,6 +55,8 @@
     },
     {
         "name":"regal",
+        "displayName":"Regal Assets",
+        "tech":" PHP, Laravel, MYSQL, Vue.js, FireBase, AWS,GIT,Redis, Bootstrap 4, CSS3, and SASS.",
         "total":17,
         "format":"JPG",
         "baseUrl":"https://raw.githubusercontent.com/MSaddamKamal/wireMedia/main/"
@@ -50,6 +64,8 @@
     },
     {
         "name":"wire",
+        "displayName":"Wire Mobile App",
+        "tech":"Node.js, Express.js, Mongoose, Axios, React Native, Android, IOS, Javscript,AJAX,GIT,Typescript. ",
         "total":36,
         "format":"jpg",
         "baseUrl":"https://raw.githubusercontent.com/MSaddamKamal/wireMedia/main/"
