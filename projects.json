@@ -1,0 +1,58 @@
+[
+    {
+        "name":"adminVp",
+        "total":18,
+        "format":"JPG",
+        "baseUrl":"https://raw.githubusercontent.com/MSaddamKamal/wireMedia/main/"
+
+    },
+    {
+        "name":"appVp",
+        "total":21,
+        "format":"JPG",
+        "baseUrl":"https://raw.githubusercontent.com/MSaddamKamal/wireMedia/main/"
+
+    },
+    {
+        "name":"burrency",
+        "total":13,
+        "format":"JPG",
+        "baseUrl":"https://raw.githubusercontent.com/MSaddamKamal/wireMedia/main/"
+
+    },
+    {
+        "name":"idev",
+        "total":19,
+        "format":"JPG",
+        "baseUrl":"https://raw.githubusercontent.com/MSaddamKamal/wireMedia/main/"
+
+    },
+    {
+        "name":"merchantVp",
+        "total":20,
+        "format":"JPG",
+        "baseUrl":"https://raw.githubusercontent.com/MSaddamKamal/wireMedia/main/"
+
+    },
+    {
+        "name":"paymentSdk",
+        "total":7,
+        "format":"JPG",
+        "baseUrl":"https://raw.githubusercontent.com/MSaddamKamal/wireMedia/main/"
+
+    },
+    {
+        "name":"regal",
+        "total":17,
+        "format":"JPG",
+        "baseUrl":"https://raw.githubusercontent.com/MSaddamKamal/wireMedia/main/"
+
+    },
+    {
+        "name":"wire",
+        "total":36,
+        "format":"jpg",
+        "baseUrl":"https://raw.githubusercontent.com/MSaddamKamal/wireMedia/main/"
+
+    }
+]
